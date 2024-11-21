@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/app/Api.csproj": {}
+    "/home/tradeckm/team_project/Project/Api/Api.csproj": {}
   },
   "projects": {
-    "/app/Api.csproj": {
+    "/home/tradeckm/team_project/Project/Api/Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/Api.csproj",
+        "projectUniqueName": "/home/tradeckm/team_project/Project/Api/Api.csproj",
         "projectName": "Api",
-        "projectPath": "/app/Api.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/app/obj/",
+        "projectPath": "/home/tradeckm/team_project/Project/Api/Api.csproj",
+        "packagesPath": "/home/tradeckm/.nuget/packages/",
+        "outputPath": "/home/tradeckm/team_project/Project/Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/tradeckm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/home/tradeckm/.dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/tradeckm/.dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

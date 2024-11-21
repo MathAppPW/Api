@@ -9,6 +9,9 @@
     }
   },
   "profiles": {
+    "Api": {
+      "applicationUrl": "http://localhost:5000"
+    },
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
