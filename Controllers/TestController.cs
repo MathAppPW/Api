@@ -3,12 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 namespace Api.Controllers;
 
 [ApiController]
-public class TestController : ControllerBase
+public class HealthController : ControllerBase
 {
-    [HttpGet("/api/test")]
+    [HttpGet("/health")]
     public IActionResult Test()
     {
-        return Ok(new { Message = "Kind reagards!" });
+        return Ok(new { Message = "Kind regards!" });
     }
 }
 
