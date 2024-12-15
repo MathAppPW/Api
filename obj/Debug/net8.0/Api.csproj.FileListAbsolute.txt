@@ -31,3 +31,10 @@
 /home/tradeckm/team_project/Project/Api/obj/Debug/net8.0/Api.pdb
 /home/tradeckm/team_project/Project/Api/obj/Debug/net8.0/Api.genruntimeconfig.cache
 /home/tradeckm/team_project/Project/Api/obj/Debug/net8.0/ref/Api.dll
+/home/tradeckm/team_project/Project/Api/bin/Debug/net8.0/Google.Protobuf.dll
+/home/tradeckm/team_project/Project/Api/bin/Debug/net8.0/Grpc.AspNetCore.Server.dll
+/home/tradeckm/team_project/Project/Api/bin/Debug/net8.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/home/tradeckm/team_project/Project/Api/bin/Debug/net8.0/Grpc.Core.Api.dll
+/home/tradeckm/team_project/Project/Api/bin/Debug/net8.0/Grpc.Net.Client.dll
+/home/tradeckm/team_project/Project/Api/bin/Debug/net8.0/Grpc.Net.ClientFactory.dll
+/home/tradeckm/team_project/Project/Api/bin/Debug/net8.0/Grpc.Net.Common.dll
