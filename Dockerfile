@@ -7,7 +7,6 @@ RUN dotnet restore
 COPY . ./
 EXPOSE 5000
 
-ENV DOTNET_USE_POLLING_FILE_WATCHER=true
 
-CMD ["dotnet", "watch", "RUN", "--urls=http://0.0.0.0:5000"]
+CMD ["dotnet", "run", "--urls=http://0.0.0.0:5000"]
 
